@@ -11,9 +11,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Useful resources](#useful-resources)
 - [Author](#author)
 
+### Screenshot
+
+![Screenshot of my completed QR code challenge](https://github.com/AdrianR1189/QR-code-Frontend-Mentor/blob/main/Screenshot%202024-02-21%20202122.png)
+
 ### Links
 
 - Github URL: https://github.com/AdrianR1189/fem-QR-code-component
+- Frontend Mentor Challenge URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ### Built with
 
@@ -26,11 +31,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learned how to use align-items and justify-content using flexbox. I also learned how to import and use Google fonts in CSS.
 
-To see how you can add code snippets, see below:
-
 ### Continued development
 
-I plan on experimenting more with flexbox in the future. I couldn't get the text centered exactly like the original version on Frontend Mentor.
+I plan on learning more about media queries and variables.
 
 ### Useful resources
 
