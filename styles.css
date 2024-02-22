@@ -40,10 +40,11 @@ body {
 #logo {
   width: 290px;
   margin-top: 17.5px;
+  border-radius: 0.6em;
 }
 
 #textArea {
-  margin: 20px 35px;
+  margin: 18px 35px;
 }
 
 #cardHeader,
