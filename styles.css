@@ -50,23 +50,27 @@ body {
 #cardInfo {
   display: flex;
   flex-direction: column;
+  text-align: center;
 }
 
 #cardHeader {
   font-family: 'Outfit', sans-serif;
   font-weight: 700;
   font-size: 20px;
+  color: hsl(218, 44%, 22%);
 }
 
 #cardInfo {
   font-family: 'Outfit', sans-serif;
   font-weight: 400;
   font-size: 15px;
+  color: hsl(220, 15%, 55%);
 }
 
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-top: 10px;
 }
 .attribution a {
   color: hsl(228, 77%, 27%);
